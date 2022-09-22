@@ -1,0 +1,78 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    border: auto;
+    width: 1200px;
+    margin: auto;
+}
+.div01{
+    justify-content: space-around;
+    border: 1px solid #660027;
+    border-radius: 5px;
+    width: 780px;
+    height: 700px;
+}
+
+.div02{
+    text-align: center;
+}
+
+.div1{
+    width: 155px;
+    height: 70px;
+    left: 120px;
+    top: 71px;
+}
+
+.div2{
+    text-align: left;
+}
+
+.ha{
+    color:#7B7676;
+}
+
+
+input{
+    background: #FFFFFF;
+    border: 2px solid #660027;
+    text-align: center;
+    font-size: 18px;
+    width: 400px;
+    height: 42px;
+}
+
+.input01{
+    background: #FFFFFF;
+    border: 2px solid #660027;
+    text-align: center;
+    font-size: 18px;
+    width: 400px;
+    height: 125px;
+}
+
+.hb{
+    background: #660027;
+    border: 2px solid #660027;
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    width: 128px;
+    height: 42px;
+}
+
+.div04{
+    background:#660027;
+    width: 400px;
+    height: 700px;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div05{
+    display: flex;
+    justify-content: space-between;
+}
